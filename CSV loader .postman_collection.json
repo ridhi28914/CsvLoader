@@ -1,0 +1,177 @@
+{
+	"info": {
+		"_postman_id": "42e1ca36-d49b-4f9e-8f5e-93151197f427",
+		"name": "CSV loader ",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8000/seven/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/seven/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"seven",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/fifty/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/fifty/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"fifty",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/twenty/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/twenty/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"twenty",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/five/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/five/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"five",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/hundred/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/hundred/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"hundred",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/three/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/three/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"three",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:8000/one/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n        \"EnvironmentKey\": 1,\n        \n        \"Name\": \"ABC\"\n    }"
+				},
+				"url": {
+					"raw": "http://localhost:8000/one/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"one",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
